@@ -1,0 +1,4 @@
+BitcoinBal: 1.2
+EthereumBal: 19.6
+RippleBal: 1.0
+Password: password
